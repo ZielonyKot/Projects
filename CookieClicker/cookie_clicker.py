@@ -2,7 +2,7 @@
 # Simple Cookie Clicker Clone
 # Python 3.x Compatible
 # Windows, MacOSX, and Linux Compatible
-# by @TokyoEdtech
+# by @ZielonyKot
 import turtle
 
 wn = turtle.Screen()
